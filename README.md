@@ -15,7 +15,7 @@ Intall the requisites:
 
 ```bash
 # Clone this repository
-$ git clone <https://github.com/cjuniordev/bot-twitter>
+$ git clone <https://github.com/cjuniordev/bot-twitter.git>
 
 # Access the project folder
 $ cd bot-twitter
